@@ -1,5 +1,6 @@
 # ContraMania
 3rd sem DMGT Project
+This program includes contra implementation using netlogo program
 
 NETLOGO 5
 
